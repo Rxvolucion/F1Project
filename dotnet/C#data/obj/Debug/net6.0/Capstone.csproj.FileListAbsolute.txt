@@ -1,0 +1,82 @@
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\appsettings.json
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\Capstone.exe
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\Capstone.deps.json
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\Capstone.runtimeconfig.json
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\Capstone.dll
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\Capstone.pdb
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\Capstone.csproj.AssemblyReference.cache
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\Capstone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\Capstone.AssemblyInfoInputs.cache
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\Capstone.AssemblyInfo.cs
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\Capstone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\staticwebassets\msbuild.Capstone.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\staticwebassets\msbuild.build.Capstone.props
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Capstone.props
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Capstone.props
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\scopedcss\bundle\Capstone.styles.css
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\Capstone.csproj.Up2Date
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\Capstone.dll
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\refint\Capstone.dll
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\Capstone.pdb
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\Capstone.genruntimeconfig.cache
+C:\Users\Kevin lt\Downloads\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\ref\Capstone.dll
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\appsettings.json
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\Capstone.exe
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\Capstone.deps.json
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\Capstone.runtimeconfig.json
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\Capstone.dll
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\Capstone.pdb
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\Capstone.csproj.AssemblyReference.cache
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\Capstone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\Capstone.AssemblyInfoInputs.cache
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\Capstone.AssemblyInfo.cs
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\Capstone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\staticwebassets\msbuild.Capstone.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\staticwebassets\msbuild.build.Capstone.props
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Capstone.props
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Capstone.props
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\scopedcss\bundle\Capstone.styles.css
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\Capstone.csproj.Up2Date
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\Capstone.dll
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\refint\Capstone.dll
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\Capstone.pdb
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\Capstone.genruntimeconfig.cache
+C:\Users\Kevin lt\Desktop\F1 Project\F1\F1 project\F1\dotnet\Capstone\obj\Debug\net6.0\ref\Capstone.dll
